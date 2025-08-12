@@ -1,10 +1,5 @@
 # AI Powered Image Reader for the Visually Impaired
 
-The AI Powered Image Reader is an accessibility-focused mobile application designed to assist visually impaired users in reading textual content from images.
-The app uses OCR (Optical Character Recognition) to extract text and TTS (Text-to-Speech) to read it aloud, enabling a seamless reading experience.
-
-# 📷 Image Reader – AI-Based Accessibility App  
-
 **Image Reader** is an accessibility-focused mobile application designed to assist visually impaired users in reading textual content from images.  
 The app uses **OCR (Optical Character Recognition)** to extract text and **TTS (Text-to-Speech)** to read it aloud, enabling a seamless reading experience.  
 
